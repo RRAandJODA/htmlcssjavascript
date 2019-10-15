@@ -1,0 +1,35 @@
+#container{
+    margin:10% 40%;
+    background-color: white;
+    width: 320px;
+    padding: 0px 5px;
+    
+}
+
+h1{
+    font-family: century schoolbook fs bold;
+    font-size: 35px;
+
+}
+
+p{
+    font-size: 20px;
+    margin: 0px;
+}
+ul{
+    
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+li{
+    font-size: 20px;
+}
+textarea{
+    font-size: 15px; 
+
+}
+.box{
+    height: 20px;
+    font-size: 15px;
+}
